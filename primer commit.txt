@@ -1,0 +1,8 @@
+este es el primer comit 
+aunque no se bien como funciona
+,bien ahora ya vi que poniendo 
+git commit -m "segundo commit" se muestra el cambio realizado
+para diferenciar y ver los cambios de la version se vecon 
+git diff y te muestra los cambios
+
+Buscaremos 
